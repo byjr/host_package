@@ -1,0 +1,26 @@
+sh configure --disable-x86asm --prefix=/usr \
+--disable-static --enable-shared \
+--enable-gpl --enable-version3 \
+--enable-sdl2 --enable-fontconfig \
+--enable-gnutls --enable-iconv \
+--enable-libass --enable-libbluray \
+--enable-libfreetype \
+--enable-libopencore-amrnb \
+--enable-libopencore-amrwb \
+--enable-libopus \
+--enable-libshine \
+--enable-libsnappy \
+--enable-libsoxr \
+--enable-libtheora \
+--enable-libtwolame \
+--enable-libwavpack \
+--enable-libwebp \
+--enable-libxml2 \
+--enable-lzma \
+--enable-zlib \
+--enable-libvorbis \
+--enable-libvo-amrwbenc \
+--enable-libspeex \
+--enable-libxvid \
+--enable-avisynth
+
